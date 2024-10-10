@@ -4,3 +4,4 @@ fuzzywuzzy
 distance
 bs4
 numpy==1.26.4
+nltk
